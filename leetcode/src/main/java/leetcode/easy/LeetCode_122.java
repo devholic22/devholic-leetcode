@@ -3,7 +3,7 @@ package leetcode.easy;
 public class LeetCode_122 {
 
     /**
-     * SOLVED: 23.11.29
+     * SOLVED: 23.11.28
      * https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
      */
     public int maxProfit(int[] prices) {
