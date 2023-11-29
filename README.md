@@ -3,8 +3,8 @@ LeetCode solve repository
 ## Solve Status
 ### Easy (48)
 #### Array
-- [x] [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) (23.11.29)
-- [ ] [Rotate Array](https://leetcode.com/problems/rotate-array/)
+- [x] [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) (23.11.28)
+- [x] [Rotate Array](https://leetcode.com/problems/rotate-array/) (23.11.29)
 - [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [ ] [Single Number](https://leetcode.com/problems/single-number/)
 - [ ] [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
