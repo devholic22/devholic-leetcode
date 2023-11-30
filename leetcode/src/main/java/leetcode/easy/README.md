@@ -2,8 +2,8 @@
 #### Array
 - [x] [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) (23.11.28)
 - [x] [Rotate Array](https://leetcode.com/problems/rotate-array/) (23.11.29)
-- [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
-- [ ] [Single Number](https://leetcode.com/problems/single-number/)
+- [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) (23.11.30)
+- [x] [Single Number](https://leetcode.com/problems/single-number/) (23.11.30)
 - [ ] [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 - [ ] [Plus One](https://leetcode.com/problems/plus-one/)
 - [ ] [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
