@@ -4,7 +4,7 @@
 - [x] [Rotate Array](https://leetcode.com/problems/rotate-array/) (23.11.29)
 - [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) (23.11.30)
 - [x] [Single Number](https://leetcode.com/problems/single-number/) (23.11.30)
-- [ ] [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
+- [x] [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) (23.12.01)
 - [ ] [Plus One](https://leetcode.com/problems/plus-one/)
 - [ ] [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 - [ ] [Two Sum](https://leetcode.com/problems/two-sum/)
