@@ -7,7 +7,7 @@
 - [x] [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) (23.12.01)
 - [x] [Plus One](https://leetcode.com/problems/plus-one/) (23.12.01)
 - [x] [Move Zeroes](https://leetcode.com/problems/move-zeroes/) (23.12.02)
-- [ ] [Two Sum](https://leetcode.com/problems/two-sum/)
+- [x] [Two Sum](https://leetcode.com/problems/two-sum/) (23.12.02)
 - [ ] [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
 - [ ] [Rotate Image](https://leetcode.com/problems/rotate-image/)
 #### Strings
