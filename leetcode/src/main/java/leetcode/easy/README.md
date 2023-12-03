@@ -8,7 +8,7 @@
 - [x] [Plus One](https://leetcode.com/problems/plus-one/) (23.12.01)
 - [x] [Move Zeroes](https://leetcode.com/problems/move-zeroes/) (23.12.02)
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/) (23.12.02)
-- [ ] [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
+- [x] [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) (23.12.03)
 - [ ] [Rotate Image](https://leetcode.com/problems/rotate-image/)
 #### Strings
 - [ ] [Reverse String](https://leetcode.com/problems/reverse-string/)
