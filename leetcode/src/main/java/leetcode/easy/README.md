@@ -12,7 +12,7 @@
 - [x] [Rotate Image](https://leetcode.com/problems/rotate-image/) (23.12.03)
 #### Strings
 - [x] [Reverse String](https://leetcode.com/problems/reverse-string/) (23.12.04)
-- [ ] [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
+- [x] [Reverse Integer](https://leetcode.com/problems/reverse-integer/) (23.12.04)
 - [ ] [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 - [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
