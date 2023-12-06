@@ -15,7 +15,7 @@
 - [x] [Reverse Integer](https://leetcode.com/problems/reverse-integer/) (23.12.04)
 - [x] [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) (23.12.05)
 - [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/) (23.12.05)
-- [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+- [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) (23.12.06)
 - [ ] [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
 - [ ] [Implement strStr()](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
 - [ ] [Count and Say](https://leetcode.com/problems/count-and-say/)
