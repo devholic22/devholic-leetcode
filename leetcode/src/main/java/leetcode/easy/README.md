@@ -19,7 +19,7 @@
 - [ ] [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
 - [x] [Implement strStr()](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) (23.12.07)
 - [ ] [Count and Say](https://leetcode.com/problems/count-and-say/)
-- [ ] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+- [x] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) (23.12.08)
 #### Linked List
 - [ ] [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
 - [ ] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
