@@ -22,7 +22,7 @@
 - [x] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) (23.12.08)
 #### Linked List
 - [x] [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) (23.12.09)
-- [ ] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+- [x] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) (23.12.10)
 - [ ] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 - [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [ ] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
