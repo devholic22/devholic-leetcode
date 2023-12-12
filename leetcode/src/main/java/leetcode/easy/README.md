@@ -24,7 +24,7 @@
 - [x] [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) (23.12.09)
 - [x] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) (23.12.10)
 - [x] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) (23.12.11)
-- [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+- [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) (23.12.12)
 - [ ] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 - [ ] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 #### Trees
