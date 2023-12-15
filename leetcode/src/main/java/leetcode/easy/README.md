@@ -28,7 +28,7 @@
 - [x] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) (23.12.13)
 - [x] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) (23.12.14)
 #### Trees
-- [ ] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+- [x] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) (23.12.15)
 - [ ] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 - [ ] [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
 - [ ] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
