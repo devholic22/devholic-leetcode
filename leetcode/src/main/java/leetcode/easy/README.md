@@ -37,7 +37,7 @@
 - [ ] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 - [ ] [First Bad Version](https://leetcode.com/problems/first-bad-version/)
 #### Dynamic Programming
-- [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+- [x] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) (23.12.16)
 - [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - [ ] [House Robber](https://leetcode.com/problems/house-robber/)
